@@ -6,3 +6,5 @@ torchrec
 pandas
 scikit-learn
 captum
+seaborn
+matplotlib
